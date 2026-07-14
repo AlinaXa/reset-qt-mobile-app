@@ -19,6 +19,16 @@ It helps users choose small, realistic actions based on their current energy lev
 - Persistent app state between sessions
 - Android-ready responsive layout
 
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/01-energy.png" width="180" alt="Energy check screen">
+  <img src="docs/screenshots/02-categories.png" width="180" alt="Category selection screen">
+  <img src="docs/screenshots/03-task.png" width="180" alt="Recommended task screen">
+  <img src="docs/screenshots/04-timer.png" width="180" alt="Timer screen">
+  <img src="docs/screenshots/05-history.png" width="180" alt="History screen">
+</p>
+
 ## Tech Stack
 
 - Qt Design Studio
