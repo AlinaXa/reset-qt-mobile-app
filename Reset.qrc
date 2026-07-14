@@ -1,0 +1,20 @@
+<RCC>
+    <qresource>
+        <file>Reset.qmlproject</file>
+        <file>Reset/Constants.qml</file>
+        <file>Reset/EventListModel.qml</file>
+        <file>Reset/EventListSimulator.qml</file>
+        <file>Reset/qmldir</file>
+        <file>ResetContent/ActionLibrary.js</file>
+        <file>ResetContent/App.qml</file>
+        <file>ResetContent/HistoryStore.js</file>
+        <file>ResetContent/InsightEngine.js</file>
+        <file>ResetContent/Screen01.ui.qml</file>
+        <file>ResetContent/Screen02.ui.qml</file>
+        <file>ResetContent/Screen03.ui.qml</file>
+        <file>ResetContent/Screen04.ui.qml</file>
+        <file>ResetContent/Screen05.ui.qml</file>
+        <file>ResetContent/SmartPicker.js</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>

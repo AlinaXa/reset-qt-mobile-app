@@ -1,0 +1,41 @@
+# Qt / CMake build outputs
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake.user
+*.qtc
+*.user
+*.autosave
+
+# Qt Creator / QDS local state
+.qtc_clangd/
+.qtc/
+*.qmlproject.user
+*.qmlproject.qtds.user
+
+# Android / Gradle build outputs
+.gradle/
+android-build/
+build-*/
+*.apk
+*.aab
+*.idsig
+
+# Signing keys - never commit
+*.keystore
+*.jks
+*.p12
+*.pem
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Qt Creator local project settings
+.qtcreator/
